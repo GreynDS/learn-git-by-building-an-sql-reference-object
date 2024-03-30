@@ -35,3 +35,4 @@ touch README.md
 echo SQL_Reference > README.md
 echo "SQL Reference" > README.md
 git status
+git add README.md
