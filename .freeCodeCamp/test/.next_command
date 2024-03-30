@@ -32,3 +32,5 @@ git status
 git checkout -b main
 git status
 touch README.md
+echo SQL_Reference > README.md
+echo "SQL Reference" > README.md
