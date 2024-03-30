@@ -47,3 +47,4 @@ git status
 git log
 git status
 git diff
+git add sql_reference.json
